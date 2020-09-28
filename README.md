@@ -33,7 +33,7 @@ Your task is to write a program that will take a sequence of DNA and a CSV file 
 
 ### Usage
 Your program should behave per the example below:
-``
+```
 $ python dna.py databases/large.csv sequences/5.txt
 Lavender
 $ python dna.py
